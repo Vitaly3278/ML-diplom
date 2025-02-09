@@ -1,0 +1,10 @@
+api {
+  # Vitaly Osipov's workspace
+  web_server: https://app.clear.ml/
+  api_server: https://api.clear.ml
+  files_server: https://files.clear.ml
+  credentials {
+    "access_key" = "8QQLEN4UYVA6AEGES23APG6Q22TJHF"
+    "secret_key" = "Whgkxlh2vopjPOjyxeX7_hxAF4c8gjOIxnRxHhFiDho_4CF9pPms_ExsgmbMPD6pVD0"
+  }
+}
